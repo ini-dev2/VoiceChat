@@ -1,0 +1,9 @@
+C:\projects\c#\VoiceChat\VoiceChat\bin\Debug\VoiceChat.exe.config
+C:\projects\c#\VoiceChat\VoiceChat\bin\Debug\VoiceChat.exe
+C:\projects\c#\VoiceChat\VoiceChat\bin\Debug\VoiceChat.pdb
+C:\projects\c#\VoiceChat\VoiceChat\obj\Debug\VoiceChat.csproj.AssemblyReference.cache
+C:\projects\c#\VoiceChat\VoiceChat\obj\Debug\VoiceChat.Properties.Resources.resources
+C:\projects\c#\VoiceChat\VoiceChat\obj\Debug\VoiceChat.csproj.GenerateResource.cache
+C:\projects\c#\VoiceChat\VoiceChat\obj\Debug\VoiceChat.csproj.CoreCompileInputs.cache
+C:\projects\c#\VoiceChat\VoiceChat\obj\Debug\VoiceChat.exe
+C:\projects\c#\VoiceChat\VoiceChat\obj\Debug\VoiceChat.pdb
